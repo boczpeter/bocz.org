@@ -1,0 +1,12 @@
+html, body {
+  height: 100vh;
+}
+body {
+  background: #F2F0E5;
+}
+
+@media (max-width: 576px) {
+  .lg {
+    display: none !important;
+  }
+}
